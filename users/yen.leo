@@ -106,7 +106,7 @@
 <v t="leo.20161216095940.57"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161216095940.58" a="E"><vh>20161104W8</vh>
+<v t="leo.20161216095940.58"><vh>20161104W8</vh>
 <v t="leo.20161216095940.59"><vh>上課日期</vh>
 <v t="leo.20161216095940.60"><vh>20161104</vh></v>
 </v>
@@ -121,19 +121,22 @@
 <v t="leo.20161216095940.66"><vh>上課日期</vh>
 <v t="leo.20161216095940.67"><vh>20161111</vh></v>
 </v>
-<v t="leo.20161216095940.68"><vh>上課內容</vh>
+<v t="leo.20161216095940.68" a="E"><vh>上課內容</vh>
 <v t="leo.20161216095940.69"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20161216095940.70"><vh>心得</vh>
 <v t="leo.20161216095940.71"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161216102509.1"><vh>20161118W10</vh>
+<v t="leo.20161216102509.1" a="E"><vh>20161118W10</vh>
 <v t="leo.20161216102509.2"><vh>上課日期</vh>
 <v t="leo.20161216102509.3"><vh>20161118</vh></v>
 </v>
 <v t="leo.20161216102509.4"><vh>上課內容1</vh>
 <v t="leo.20161216102509.5"><vh>Solvespace 平面四連桿機構模擬</vh></v>
+<v t="leo.20161230101717.1" a="E"><vh>上課內容2</vh>
+<v t="leo.20161230101717.2"><vh>Solvespace 平面四連桿機構模擬</vh></v>
+</v>
 </v>
 <v t="leo.20161216102736.1" a="E"><vh>心得</vh>
 <v t="leo.20161216102736.2"><vh>心得</vh></v>
@@ -167,6 +170,14 @@
 </v>
 <v t="leo.20161216102526.4" a="E"><vh>上課內容1</vh>
 <v t="leo.20161216102526.5"><vh>遠端網誌無法更新</vh></v>
+</v>
+</v>
+<v t="leo.20161230094929.1" a="E"><vh>20161209W14</vh>
+<v t="leo.20161230094929.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161230094929.3"><vh>20161216</vh></v>
+</v>
+<v t="leo.20161230094929.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161230094929.5"><vh>利用ONSNAPS畫圖</vh></v>
 </v>
 </v>
 </v>
@@ -913,6 +924,7 @@ Created by [40423231](https://40423231.github.io/2016fallcadp_hw/blog/)
 
 
 
+&lt;iframe src="https://player.vimeo.com/video/197466858" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20161216102515.1">&lt;section&gt;
 @others
@@ -1032,5 +1044,47 @@ Created by [40423231](https://40423231.github.io/2016fallcadp_hw/blog/)
 <t tx="leo.20161216102916.2">##心得
 
 這次教學是 如何將SolveSpace導入在網頁裡面 使得在網頁之中能夠自由觀看滑動</t>
+<t tx="leo.20161230094929.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161230094929.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161230094929.3">## 2016-12-16 第十四週
+
+</t>
+<t tx="leo.20161230094929.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161230094929.5">## 利用ONSNAPS畫圖
+
+&lt;p&gt;今天要在onsnaps畫圖 老師展示了3D列印的干涉問題&lt;/p&gt;</t>
+<t tx="leo.20161230101717.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161230101717.2">## Solvespace 平面四連桿機構模擬
+
+
+
+&lt;iframe src="https://player.vimeo.com/video/197467378" width="640" height="470" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
